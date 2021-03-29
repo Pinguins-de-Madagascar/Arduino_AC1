@@ -10,7 +10,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 
 
-##Sobre nosso grupo
+## Sobre nosso grupo
 Nós somos do grupo Pinguins de Madagascar. Fomos contratados por uma fábrica de vacinas para ajustar algumas funcionalidades da fábrica.
 
 ### Mudanças que fizemos
