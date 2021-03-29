@@ -16,9 +16,11 @@ Nós somos do grupo Pinguins de Madagascar. Fomos contratados por uma fábrica d
 ### Mudanças que fizemos
 Fizemos mudanças no código e no circuito principal dos maquinários da fábrica.
 
-###Mais sobre nossa equipe
-####Iasmin Pakai Hacker
+### Mais sobre nossa equipe
+#### Iasmin Pakai Hacker
+
 ![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/foto%20ac1.png)
+
 - Estudante do Ensino Médio
 - 16 anos
 - Admiradora da natureza
