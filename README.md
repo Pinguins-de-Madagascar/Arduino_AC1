@@ -12,6 +12,10 @@ Nós somos do grupo Pinguins de Madagascar. Fomos contratados por uma fábrica d
 
 ### Mudanças que fizemos
 Fizemos mudanças no código e no circuito principal dos maquinários da fábrica.
+Os integrantes Ísis, Pakai, Ana e Gabriel foram fazendo  mudanças no código conforme o necessário.
+A Luísa fez o circuito, fez os testes dos código e entrou em contato com o professor.
+Pakai auxiliou todo processo .
+
 
 ### Mais sobre nossa equipe
 #### Iasmin Pakai Hacker
