@@ -1,6 +1,5 @@
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
-![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/ac1%20circuito.jpeg)
@@ -42,6 +41,15 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 - Tenho 16 anos
 - Pretendo fazer faculdade de arquitetura
 
+####Ana Clara Hartemann de Almeida
+
+![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/foto_A_ac1.png)
+
+- 16 anos
+- Gosto de desenhar
+- Quero seguir uma carreira na dança
+- Sou de humanas 
+
 LINKS UTEIS:
 
 - **Funções:** https://www.arduino.cc/reference/pt/
@@ -50,5 +58,7 @@ LINKS UTEIS:
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+
 
 
