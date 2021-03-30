@@ -1,3 +1,4 @@
+
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
@@ -49,6 +50,16 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 - Quero seguir uma carreira na dança
 - Sou de humanas 
 
+#### Ísis Mendes Pereira 
+![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/IMG_1837.jpg)
+
+- Tenho 15 anos 
+- Sou apaixonada em moda e tudo que envolva arte
+- Meus hobbys favoritos é ler e nadar
+- Pretendo cursar moda
+
+
+
 LINKS UTEIS:
 
 - **Funções:** https://www.arduino.cc/reference/pt/
@@ -57,6 +68,9 @@ LINKS UTEIS:
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+
+
 
 
 
