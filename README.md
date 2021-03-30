@@ -1,6 +1,3 @@
-# Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
-
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
@@ -36,7 +33,16 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 - admirador de mercado de capitais 
 - Sou de exatas
 
-#### LINKS UTEIS:
+#### Luísa Di Stasi
+
+![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/FOTO%20CODING.jpg)
+
+- Gosto muito de fotos
+- Sou mais de humanas
+- Tenho 16 anos
+- Pretendo fazer faculdade de arquitetura
+
+LINKS UTEIS:
 
 - **Funções:** https://www.arduino.cc/reference/pt/
 - **map():** https://www.arduino.cc/reference/pt/language/functions/math/map/
@@ -44,4 +50,5 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
 
