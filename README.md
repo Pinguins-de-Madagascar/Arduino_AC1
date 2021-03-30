@@ -27,6 +27,15 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 - Grande usuária de plataformas de streaming
 - Fã de música
 
+#### Gabriel Biancardi Katchborian
+
+![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/ft%20de%20perfil%20coding)
+
+- 	Gosto de ler
+- Sempre que possivel quero aprender 
+- admirador de mercado de capitais 
+- Sou de exatas
+
 #### LINKS UTEIS:
 
 - **Funções:** https://www.arduino.cc/reference/pt/
@@ -35,3 +44,4 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
