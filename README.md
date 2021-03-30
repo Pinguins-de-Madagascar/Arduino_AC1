@@ -41,8 +41,7 @@ Fizemos mudanças no código e no circuito principal dos maquinários da fábric
 - Tenho 16 anos
 - Pretendo fazer faculdade de arquitetura
 
-####Ana Clara Hartemann de Almeida
-
+####  Ana Clara Hartemann de Almeida
 ![](https://github.com/Pinguins-de-Madagascar/Arduino_AC1/blob/main/foto_A_ac1.png)
 
 - 16 anos
